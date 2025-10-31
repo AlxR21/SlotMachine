@@ -1,2 +1,3 @@
 # SlotMachine
-This is from when I was learning Jaava.
+This is from when I was learning Java. 
+The very first repository from 3 years ago. So far have we come. Now to go even beyond...
